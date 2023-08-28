@@ -18,7 +18,7 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pawarispongrat)](https://github.com/pawarispongrat/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pawarispongrat)](https://github.com/pawarispongrat/github-readme-stats&theme=tokyonight)
 
 ---
 ### :mag_right: Contacts :
