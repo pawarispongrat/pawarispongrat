@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pawarispongrat
-- 👀 I’m interested in Jingkabell
-- 🌱 I’m currently learning dance dom dom yes yes
-- 📫 How to reach me IG newt_pwz
+- 👀 I’m interested in FrontEnd Dev 
+- 🧑‍🎓 I’m currently learning Information & technology from SIT KMUTT
+- 📫 How to reach me pwrisphngsratn272@gmail.com
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -15,6 +15,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/pawarispongrat/github-readme-stats)
 <!---
 pawarispongrat/pawarispongrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
